@@ -1,22 +1,32 @@
 # FBcmd4J
 Computación en Java / Evidencia
+----------------------
 
 ## Instalación
 
+
+
+----------------------
+
 ## Uso
+
+* Instalar JDK 8 de Java, http://www.oracle.com/technetwork/java/index.html
+* Instalar Git, https://git-scm.com
+* Clonar el repositorio 
+> git clone https://github.com/DavidServn/fbcmd4j.git
+* Inslatar la última versión de Eclipse IDE, http://www.eclipse.org/downloads/
+----------------------
 
 ## Créditos
 
 * Desarrollador del Programa - Dominik Bacher Suarez
 * Tutor - Lorenza Illanez Diaz Rivera
 * Propietario del curso CS13303 - Jose Manueal
-
 ----------------------
 
 ## Licencia
 
 The MIT License (MIT)
-
 Copyright (c) 2018 Dominik Bacher
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
