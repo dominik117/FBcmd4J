@@ -13,7 +13,7 @@ Computación en Java / Evidencia
 * Instalar JDK 8 de Java, http://www.oracle.com/technetwork/java/index.html
 * Instalar Git, https://git-scm.com
 * Clonar el repositorio 
-> git clone https://github.com/DavidServn/fbcmd4j.git
+> git clone https://github.com/dominik117/FBcmd4J
 * Inslatar la última versión de Eclipse IDE, http://www.eclipse.org/downloads/
 ----------------------
 
