@@ -22,7 +22,7 @@ Computación en Java / Evidencia
 
 * Desarrollador del Programa - Dominik Bacher Suarez
 * Tutor - Lorenza Illanez Diaz Rivera
-* Propietario del curso CS13303 - Jose Manueal
+* Propietario del curso CS13303 - Jose Manuel
 ----------------------
 
 ## Licencia
